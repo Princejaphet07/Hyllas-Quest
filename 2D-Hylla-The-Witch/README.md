@@ -1,6 +1,6 @@
 # Hylla's Quest
 
-![Game Screenshot](/image.png)
+![Game Screenshot](image.png)
 
 This is the full version of my 2D top-down game made in Unity.
 
