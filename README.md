@@ -2,22 +2,22 @@
 
 ![Game Screenshot](2D-Hylla-The-Witch/image.png)
 
-This is the full version of my 2D top-down game made in Unity.
+"Follow the enchanting tale of Hylla, a fiery witch on a mission to tame a wild and dangerous realm."
 
-## How to Run this Unity Game
+## 🎮 Play the Game (Windows PC)
+You can download the playable version of the game here:
+**[Download Hylla's Quest on itch.io](https://japhett.itch.io/hyllas-quest-game)**
 
-### 1. Clone the Repository
-To download the game files, open your terminal or command prompt and run this command:
+---
 
-`git clone https://github.com/Princejaphet07/Hyllas-Quest.git`
+## 🛠️ How to Run the Source Code
+If you want to open this project in Unity to see how it was made:
 
-### 2. Open the Project in Unity
-- Open **Unity Hub**.
-- Click **Open**.
-- Locate and select the cloned folder.
-- **Note:** Unity will automatically import all assets the first time you open the project. Please wait a moment for the loading to finish.
-
-### 3. Open the Main Scene and Run the Game
-- Inside Unity, navigate to the **Assets > Scenes** folder.
-- Double-click the Main Menu or Main Scene.
-- Click the **Play button (▶)** at the top to start playing!
+1. **Clone the Repository:**
+   `git clone https://github.com/Princejaphet07/Hyllas-Quest.git`
+2. **Open in Unity Hub:**
+   - Click **Open**.
+   - Select the `2D-Hylla-The-Witch` folder.
+3. **Run the Game:**
+   - Navigate to `Assets > Scenes`.
+   - Open `MainMenuScene` and click the **Play** button.
