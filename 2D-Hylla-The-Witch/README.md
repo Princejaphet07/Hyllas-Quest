@@ -2,7 +2,7 @@
 
 ![Game Screenshot](image.png)
 
-This is the full version of my 2D top-down game made in Unity.
+This is the full version of my 2D game made in Unity.
 
 ## How to Run this Unity Game
 
